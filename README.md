@@ -1,7 +1,13 @@
 ## Screenshots
 
 ### Login Screen
-![Login Screen](images/login.png)
+![Login Screen](images/Sign Up.png)
+
+###Profile
+![Profile Screen](images/Profile.png)
 
 ### Chat Screen
-![Chat Screen](images/chat.png)
+![Chat Screen](images/App.png)
+
+### Setting Screen
+![Chat Screen](images/setting.png)
