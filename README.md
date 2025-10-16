@@ -1,7 +1,7 @@
 ## Screenshots
 
 ### Login Screen
-![Login Screen](images/Sign Up.png)
+![Login Screen](images/Signup.png)
 
 ###Profile
 ![Profile Screen](images/Profile.png)
